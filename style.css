@@ -1,0 +1,32 @@
+.header-section{
+    border: 1px solid lightgray;
+}
+.header-top{
+    
+    margin-bottom: 20px;
+
+}
+.header-top li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 20px;
+    
+}
+
+.header li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 10px;
+}
+.header li a {
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
+    font-weight: bold;
+}
+.header-top li a{
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
+    
+}
