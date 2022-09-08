@@ -1,5 +1,6 @@
 .header-section {
-    border: 1px solid lightgray;
+    border-bottom: 2px solid lightgray;
+    
 }
 
 .header-top {
@@ -33,4 +34,9 @@
     font-size: 10px;
     color: black;
 
+}
+@media screen and (max-width: 400px){
+    .header li{
+        margin-left: 0px;
+    }
 }
